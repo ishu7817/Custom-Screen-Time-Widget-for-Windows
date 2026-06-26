@@ -66,7 +66,7 @@ Note: If you don't see AppData, it is hidden! Click the "View" tab at the top of
 >activitywatch
 >>aw-server
 
-Inside aw-server, you should see the aw-server.ini file. Right-click it and select Open with -> Notepad.
+Inside aw-server, you should see the aw-server.ini or aw-server.toml file. Right-click it and select Open with -> Notepad.
 
 Once you are inside the file:
 select all the code there (ctrl + a) and paste this exact code there: 
